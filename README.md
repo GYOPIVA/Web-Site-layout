@@ -1,8 +1,8 @@
  <h2>   💻Projeto: Layout de Site Responsivo com HTML5 e CSS3</h2> 
-Objetivo:
-Criar um layout simples e funcional para um site, com foco em uma barra de navegação responsiva, utilizando boas práticas de HTML5 e CSS3.
+Objetivo: <br>
+Criar um layout simples e funcional para um site, com foco em uma barra de navegação responsiva, utilizando boas práticas de HTML5 e CSS3. <br>
 
-Tecnologias Utilizadas:
+<h2>Tecnologias Utilizadas:</h2>
 
 HTML5 para estrutura semântica
 CSS3 para estilização
