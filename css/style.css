@@ -127,3 +127,29 @@ nav .menu {
     background: #fff;
     color: #000;
 }
+@media screen and (max-width:800px) and (max-height:1000px) {
+
+    .menu .logo a{
+        font-size: 20px;
+    }
+    .menu ul li a{
+        padding: 5px;
+        font-size: 13px;
+    }
+    .center .title{
+        font-size: 35px;
+    }
+    .center .sub_title{
+        font-size: 30px;
+    }
+    .center .btns button{
+        height: 35px;
+        width: 120px;
+        font-size: 15px;
+    }
+    .menu{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
